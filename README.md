@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on Microsoft Power BI.
 - 📫 Reach me at shiekhhassan1234draq@gmail.com.
 
-- 
-  https://streak-stats.demolab.com/?user=HassanRaza2020)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=HassanRaza2020&theme=radical)](https://git.io/streak-stats)
 
 <!---
 HassanRaza2020/HassanRaza2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
