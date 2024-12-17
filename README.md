@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning Microsoft Power BI.
 - 💞️ I’m looking to collaborate on Microsoft Power BI.
 - 📫 Reach me at shiekhhassan1234draq@gmail.com.
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=HassanRaza2020)](https://git.io/streak-stats)
+
+- 
+  https://streak-stats.demolab.com/?user=HassanRaza2020)](https://git.io/streak-stats)
 
 <!---
 HassanRaza2020/HassanRaza2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
